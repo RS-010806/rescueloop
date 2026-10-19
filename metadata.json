@@ -1,0 +1,6 @@
+{
+  "name": "RescueLoop AI",
+  "description": "Agentic surplus food rescue coordination platform converting food waste into actionable redistribution plans for community kitchens and shelters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
